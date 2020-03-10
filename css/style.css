@@ -322,7 +322,7 @@ template {
   border: none;
   border-radius: 2px;
   text-transform: uppercase; }
-  .button::hover {
+  .button:hover {
     cursor: pointer; }
   .button--primary {
     background-color: #e3b873;
@@ -351,7 +351,17 @@ body {
 .section-title {
   text-align: center;
   text-transform: uppercase;
-  font-family: 'Yeseva One' cursive; }
+  font-family: 'Yeseva One', cursive; }
+  .section-title__image {
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+    .section-title__image::before, .section-title__image::after {
+      content: '';
+      width: 32px;
+      height: 2px;
+      background-color: #e3b873;
+      margin: 0 10px; }
 
 .header {
   position: fixed;
@@ -376,8 +386,9 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   margin-right: 40px;
-  transition: color 0.2s;
-  color: #e3b873; }
+  transition: color 0.2s; }
+  .nav__item:hover {
+    color: #e3b873; }
 
 .phone {
   color: #e3b873; }
