@@ -1,3 +1,4 @@
+@charset "UTF-8";
 @font-face {
   font-family: 'Futura Book';
   src: url("../css/fonts/futura/FuturaBookC.woff") format("woff"), url("../css/fonts/futura/FuturaBookC.woff2") format("woff");
@@ -430,9 +431,6 @@ img {
     margin-left: 4.28rem; }
   .hero__title {
     margin-bottom: 1rem; }
-  .hero__title__text {
-    padding-top: 3rem;
-    background-color: #131313; }
   .hero__text {
     font-size: 1.57rem;
     line-height: 131%;
@@ -503,6 +501,14 @@ img {
 
 .types__section-title {
   margin-bottom: 2rem; }
+
+/* Временный блок */
+.description {
+  margin: auto; }
+  .description__text {
+    max-width: 740px;
+    text-align: center;
+    padding-bottom: 36px; }
 
 .row {
   display: flex;
