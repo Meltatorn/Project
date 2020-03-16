@@ -706,7 +706,10 @@ img {
 
 @media screen and (max-width: 520px) {
   .types {
-    background-color: #131313;
-    color: #fff; }
+    background-color: #131313; }
+  .section-title__heading {
+    color: #fff;
+    font-size: 1.75rem; }
   .container__description {
-    color: #fff; } }
+    color: #fff;
+    font-size: 1rem; } }
