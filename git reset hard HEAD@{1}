@@ -1,0 +1,31 @@
+[33mc7148fd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: reset: moving to c7148fd506a5abd1b9942f72c54b85679c126d53
+[33mc45944d[m HEAD@{1}: commit: feat: add block slider
+[33mb673c93[m HEAD@{2}: commit: feat: add section completed projects
+[33mc7148fd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{3}: commit: feat: add lesson
+[33m066eba1[m HEAD@{4}: commit: added a video background for the site
+[33mff0e769[m HEAD@{5}: commit: feat: add jQuery and file main.js
+[33m43cd392[m HEAD@{6}: commit: refact: fixed discription color in mobile screen
+[33m2f11014[m HEAD@{7}: commit: feat: js function for modal
+[33m8376293[m HEAD@{8}: commit: feat: add background in mobile version
+[33m97047cb[m HEAD@{9}: commit: feat: add modal dialog
+[33md1000b0[m HEAD@{10}: commit: feat: add block description
+[33m7cab725[m HEAD@{11}: commit: refact: fixed button position in media file
+[33m83909fb[m HEAD@{12}: commit: feat: Fixed media file and add block section types
+[33m12f1462[m HEAD@{13}: commit: refact: make responsive layout for header and hero
+[33m2035fd9[m HEAD@{14}: commit: feat: add pseudo-element, button cursor and fixed menu
+[33m18a238e[m HEAD@{15}: commit: feat: add control section and move body settings in _settings.sass
+[33mb7ab972[m HEAD@{16}: commit: feat: add hover effect to primary button
+[33maa6abf3[m HEAD@{17}: commit: feat: hero style and add Yeseva One font
+[33m39b745f[m HEAD@{18}: commit: add sass/_interface.sass
+[33m600b551[m HEAD@{19}: commit: deat: box-sizing border box
+[33m3438804[m HEAD@{20}: commit: refact: fixed header position
+[33m634e90a[m HEAD@{21}: commit: add: instagram button
+[33m5d85d62[m HEAD@{22}: commit: refact: add scss files to watch function in gulpfile
+[33mc1f3dd8[m HEAD@{23}: commit: feat: add Futura Book & Demi fonts
+[33m788e52c[m HEAD@{24}: commit: feat: add normalize, grid, variables, interface, header styles in template folder
+[33mb3f9000[m HEAD@{25}: commit: feat: gulp-sass in gulpfile.js
+[33m93c4e25[m HEAD@{26}: commit: add main in index.html
+[33mf1a2faa[m HEAD@{27}: commit: feat: add header in index.html
+[33m39cdeef[m HEAD@{28}: commit: Include gulp & make gulpfile.js
+[33mf6b018d[m HEAD@{29}: commit: create index.html
+[33m3808043[m HEAD@{30}: clone: from git@github.com:Meltatorn/Project.git
