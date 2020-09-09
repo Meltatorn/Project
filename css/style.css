@@ -364,7 +364,7 @@ template {
 .policy__checkbox {
   opacity: 0;
   visibility: hidden; }
-  .policy__checkbox:checked + ::before {
+  .policy__checkbox:checked ::before {
     background: #e3b873 url("../img/check.svg") no-repeat center/0.8rem; }
 
 .policy__label {
@@ -582,23 +582,13 @@ img {
   .title--primary {
     color: #e3b873; }
 
-.section-title__heading {
-  font-size: 27px;
-  line-height: 37px;
-  letter-spacing: -0.07em; }
-
-.swiper-wrapper {
-  margin-top: 1rem; }
-
 .swiper-slide {
   display: flex;
   flex-wrap: wrap; }
   .swiper-slide__text {
-    flex-basis: 30%;
-    padding-bottom: 1.2rem;
-    max-width: 210px; }
-    .swiper-slide__text::nth-child even {
-      margin-left: 20px; }
+    flex-basis: 50%;
+    margin-bottom: 2.42rem;
+    padding-bottom: 2rem; }
   .swiper-slide__heading {
     font-size: 1.285rem;
     line-height: 1.78rem;
@@ -606,9 +596,6 @@ img {
     color: #e3b873;
     text-transform: uppercase;
     margin-bottom: 0.64rem; }
-  .swiper-slide__value {
-    font-size: 1.07rem;
-    line-height: 1.42rem; }
 
 .swiper-pagination-bullet {
   background-color: rgba(255, 255, 255, 0.3); }
